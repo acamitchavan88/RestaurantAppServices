@@ -1,0 +1,16 @@
+com\example\order\mapper\OrderDTOMapperImpl.class
+com\example\order\dto\OrderDTOFromFE.class
+com\example\order\repository\OrderRepo.class
+com\example\order\service\OrderService.class
+com\example\order\controller\OrderController.class
+com\example\order\dto\FoodItemDTO.class
+com\example\order\OrderMsApplication.class
+com\example\order\service\SequenceGenerator.class
+com\example\order\dto\Restaurant.class
+com\example\order\mapper\OrderMapperImpl.class
+com\example\order\dto\OrderDTO.class
+com\example\order\entity\Sequence.class
+com\example\order\mapper\OrderDTOMapper.class
+com\example\order\mapper\OrderMapper.class
+com\example\order\dto\UserDTO.class
+com\example\order\entity\Order.class
